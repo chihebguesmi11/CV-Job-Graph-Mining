@@ -1,0 +1,42 @@
+
+# Project specific
+data/raw/*.pkl
+data/raw/*.json
+data/processed/*.pkl
+data/processed/*.npy
+models/*.pkl
+results/figures/*.png
+results/figures/*.pdf
+*.pyc
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Keep directory structure but ignore contents
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!models/.gitkeep
+!results/figures/.gitkeep
+!results/metrics/.gitkeep
+!results/analysis/.gitkeep
+
+# Environment
+venv/
+env/
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# API Keys
+config/api_keys.json
+*.key
