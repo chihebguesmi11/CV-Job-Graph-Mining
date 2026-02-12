@@ -1,0 +1,2435 @@
+[
+  {
+    "job_id": "job_000",
+    "company": "TechCorp",
+    "title": "Project Manager",
+    "domain": "management",
+    "level": "entry",
+    "required_skills": [
+      "Stakeholder Management",
+      "Cross-functional Collaboration",
+      "Budget Management",
+      "Kanban",
+      "Scrum",
+      "Confluence"
+    ],
+    "experience_required": 0,
+    "description": "Lead a high-performing team of talented engineers.\n\nRequired Skills: Stakeholder Management, Cross-functional Collaboration, Budget Management, Kanban, Scrum, Confluence\nExperience Required: 0 years",
+    "raw_text": "Lead a high-performing team of talented engineers.\n\nRequired Skills: Stakeholder Management, Cross-functional Collaboration, Budget Management, Kanban, Scrum, Confluence\nExperience Required: 0 years",
+    "salary_range": {
+      "min": 100000,
+      "max": 127164
+    },
+    "location": "Remote",
+    "benefits": [
+      "Paid Time Off",
+      "Health Insurance",
+      "Mentorship Program",
+      "Flexible Hours",
+      "Gym Membership",
+      "401(k) Match",
+      "Mental Health Support"
+    ]
+  },
+  {
+    "job_id": "job_001",
+    "company": "InnovateLabs",
+    "title": "Project Manager",
+    "domain": "management",
+    "level": "senior",
+    "required_skills": [
+      "Confluence",
+      "Requirements Gathering",
+      "Strategic Planning",
+      "Budget Management",
+      "Mentoring"
+    ],
+    "experience_required": 5,
+    "description": "Lead strategic initiatives and manage stakeholder expectations.\n\nRequired Skills: Confluence, Requirements Gathering, Strategic Planning, Budget Management, Mentoring\nExperience Required: 5 years",
+    "raw_text": "Lead strategic initiatives and manage stakeholder expectations.\n\nRequired Skills: Confluence, Requirements Gathering, Strategic Planning, Budget Management, Mentoring\nExperience Required: 5 years",
+    "salary_range": {
+      "min": 180000,
+      "max": 212449
+    },
+    "location": "Remote",
+    "benefits": [
+      "Professional Development",
+      "Paid Time Off",
+      "Remote Work",
+      "Health Insurance",
+      "Free Lunch"
+    ]
+  },
+  {
+    "job_id": "job_002",
+    "company": "DataFlow Systems",
+    "title": "VP Engineering",
+    "domain": "management",
+    "level": "entry",
+    "required_skills": [
+      "Decision Making",
+      "Business Analysis",
+      "Risk Management",
+      "Mentoring"
+    ],
+    "experience_required": 1,
+    "description": "Manage product strategy and roadmap execution.\n\nRequired Skills: Decision Making, Business Analysis, Risk Management, Mentoring\nExperience Required: 1 years",
+    "raw_text": "Manage product strategy and roadmap execution.\n\nRequired Skills: Decision Making, Business Analysis, Risk Management, Mentoring\nExperience Required: 1 years",
+    "salary_range": {
+      "min": 100000,
+      "max": 145331
+    },
+    "location": "On-site",
+    "benefits": [
+      "Flexible Hours",
+      "401(k) Match",
+      "Gym Membership"
+    ]
+  },
+  {
+    "job_id": "job_003",
+    "company": "ByteWorks",
+    "title": "ML Engineer",
+    "domain": "data_science",
+    "level": "lead",
+    "required_skills": [
+      "GCP",
+      "AWS",
+      "Pandas",
+      "Plotly",
+      "Julia"
+    ],
+    "experience_required": 13,
+    "description": "Work with large-scale datasets and implement efficient algorithms.\n\nRequired Skills: GCP, AWS, Pandas, Plotly, Julia\nExperience Required: 13 years",
+    "raw_text": "Work with large-scale datasets and implement efficient algorithms.\n\nRequired Skills: GCP, AWS, Pandas, Plotly, Julia\nExperience Required: 13 years",
+    "salary_range": {
+      "min": 210000,
+      "max": 245147
+    },
+    "location": "On-site",
+    "benefits": [
+      "Parental Leave",
+      "Mentorship Program",
+      "Flexible Hours",
+      "Professional Development",
+      "Health Insurance"
+    ]
+  },
+  {
+    "job_id": "job_004",
+    "company": "NexGen Tech",
+    "title": "Principal Engineer",
+    "domain": "engineering",
+    "level": "entry",
+    "required_skills": [
+      "Spring",
+      "C++",
+      "Django",
+      "MongoDB",
+      "CI/CD",
+      "Vue.js",
+      "System Design"
+    ],
+    "experience_required": 1,
+    "description": "Build APIs and microservices in a high-performance environment.\n\nRequired Skills: Spring, C++, Django, MongoDB, CI/CD, Vue.js, System Design\nExperience Required: 1 years",
+    "raw_text": "Build APIs and microservices in a high-performance environment.\n\nRequired Skills: Spring, C++, Django, MongoDB, CI/CD, Vue.js, System Design\nExperience Required: 1 years",
+    "salary_range": {
+      "min": 80000,
+      "max": 115035
+    },
+    "location": "Remote",
+    "benefits": [
+      "Stock Options",
+      "Flexible Hours",
+      "Mentorship Program",
+      "Paid Time Off",
+      "Remote Work"
+    ]
+  },
+  {
+    "job_id": "job_005",
+    "company": "FutureTech",
+    "title": "Engineering Manager",
+    "domain": "management",
+    "level": "lead",
+    "required_skills": [
+      "Stakeholder Management",
+      "Budget Management",
+      "Problem Solving",
+      "Communication",
+      "Scrum",
+      "Agile"
+    ],
+    "experience_required": 14,
+    "description": "Manage product strategy and roadmap execution.\n\nRequired Skills: Stakeholder Management, Budget Management, Problem Solving, Communication, Scrum, Agile\nExperience Required: 14 years",
+    "raw_text": "Manage product strategy and roadmap execution.\n\nRequired Skills: Stakeholder Management, Budget Management, Problem Solving, Communication, Scrum, Agile\nExperience Required: 14 years",
+    "salary_range": {
+      "min": 250000,
+      "max": 295954
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Paid Time Off",
+      "401(k) Match",
+      "Gym Membership",
+      "Mental Health Support",
+      "Free Lunch",
+      "Remote Work"
+    ]
+  },
+  {
+    "job_id": "job_006",
+    "company": "Digital Solutions Inc",
+    "title": "Lead Data Scientist",
+    "domain": "data_science",
+    "level": "entry",
+    "required_skills": [
+      "Plotly",
+      "Airflow",
+      "NLP",
+      "Spark"
+    ],
+    "experience_required": 2,
+    "description": "Research and implement cutting-edge deep learning approaches.\n\nRequired Skills: Plotly, Airflow, NLP, Spark\nExperience Required: 2 years",
+    "raw_text": "Research and implement cutting-edge deep learning approaches.\n\nRequired Skills: Plotly, Airflow, NLP, Spark\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 90000,
+      "max": 110106
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Mentorship Program",
+      "Stock Options",
+      "Mental Health Support",
+      "401(k) Match",
+      "Remote Work"
+    ]
+  },
+  {
+    "job_id": "job_007",
+    "company": "InnovateLabs",
+    "title": "VP Product",
+    "domain": "management",
+    "level": "mid",
+    "required_skills": [
+      "Team Leadership",
+      "Decision Making",
+      "Problem Solving",
+      "Project Management",
+      "Requirements Gathering",
+      "Communication"
+    ],
+    "experience_required": 3,
+    "description": "Lead a high-performing team of talented engineers.\n\nRequired Skills: Team Leadership, Decision Making, Problem Solving, Project Management, Requirements Gathering, Communication\nExperience Required: 3 years",
+    "raw_text": "Lead a high-performing team of talented engineers.\n\nRequired Skills: Team Leadership, Decision Making, Problem Solving, Project Management, Requirements Gathering, Communication\nExperience Required: 3 years",
+    "salary_range": {
+      "min": 140000,
+      "max": 188793
+    },
+    "location": "On-site",
+    "benefits": [
+      "Health Insurance",
+      "Flexible Hours",
+      "Paid Time Off",
+      "401(k) Match"
+    ]
+  },
+  {
+    "job_id": "job_008",
+    "company": "AI Innovations",
+    "title": "Staff Engineer",
+    "domain": "engineering",
+    "level": "lead",
+    "required_skills": [
+      "REST API",
+      "Go",
+      "OOP",
+      "Git",
+      "GCP",
+      "PostgreSQL",
+      "Rust",
+      "Spring"
+    ],
+    "experience_required": 9,
+    "description": "Lead technical initiatives and mentor junior engineers.\n\nRequired Skills: REST API, Go, OOP, Git, GCP, PostgreSQL, Rust, Spring\nExperience Required: 9 years",
+    "raw_text": "Lead technical initiatives and mentor junior engineers.\n\nRequired Skills: REST API, Go, OOP, Git, GCP, PostgreSQL, Rust, Spring\nExperience Required: 9 years",
+    "salary_range": {
+      "min": 200000,
+      "max": 244748
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Mental Health Support",
+      "Remote Work",
+      "Gym Membership",
+      "Professional Development"
+    ]
+  },
+  {
+    "job_id": "job_009",
+    "company": "DataFlow Systems",
+    "title": "AI Engineer",
+    "domain": "data_science",
+    "level": "lead",
+    "required_skills": [
+      "NumPy",
+      "Julia",
+      "Airflow",
+      "R",
+      "Python"
+    ],
+    "experience_required": 9,
+    "description": "Build predictive models that drive real business impact.\n\nRequired Skills: NumPy, Julia, Airflow, R, Python\nExperience Required: 9 years",
+    "raw_text": "Build predictive models that drive real business impact.\n\nRequired Skills: NumPy, Julia, Airflow, R, Python\nExperience Required: 9 years",
+    "salary_range": {
+      "min": 210000,
+      "max": 232208
+    },
+    "location": "Remote",
+    "benefits": [
+      "401(k) Match",
+      "Mentorship Program",
+      "Flexible Hours",
+      "Remote Work",
+      "Free Lunch"
+    ]
+  },
+  {
+    "job_id": "job_010",
+    "company": "Alpha Systems",
+    "title": "Full Stack Engineer",
+    "domain": "engineering",
+    "level": "mid",
+    "required_skills": [
+      "GraphQL",
+      "GCP",
+      "Kubernetes",
+      "Django",
+      "JavaScript"
+    ],
+    "experience_required": 5,
+    "description": "Join our team to develop cutting-edge cloud-based solutions.\n\nRequired Skills: GraphQL, GCP, Kubernetes, Django, JavaScript\nExperience Required: 5 years",
+    "raw_text": "Join our team to develop cutting-edge cloud-based solutions.\n\nRequired Skills: GraphQL, GCP, Kubernetes, Django, JavaScript\nExperience Required: 5 years",
+    "salary_range": {
+      "min": 120000,
+      "max": 153879
+    },
+    "location": "On-site",
+    "benefits": [
+      "Mental Health Support",
+      "Health Insurance",
+      "401(k) Match",
+      "Parental Leave",
+      "Gym Membership",
+      "Professional Development"
+    ]
+  },
+  {
+    "job_id": "job_011",
+    "company": "Sigma Analytics",
+    "title": "AI Engineer",
+    "domain": "data_science",
+    "level": "entry",
+    "required_skills": [
+      "Keras",
+      "Data Mining",
+      "Computer Vision",
+      "A/B Testing",
+      "Scikit-learn"
+    ],
+    "experience_required": 0,
+    "description": "Develop and deploy machine learning models in production.\n\nRequired Skills: Keras, Data Mining, Computer Vision, A/B Testing, Scikit-learn\nExperience Required: 0 years",
+    "raw_text": "Develop and deploy machine learning models in production.\n\nRequired Skills: Keras, Data Mining, Computer Vision, A/B Testing, Scikit-learn\nExperience Required: 0 years",
+    "salary_range": {
+      "min": 90000,
+      "max": 138655
+    },
+    "location": "Remote",
+    "benefits": [
+      "Mentorship Program",
+      "401(k) Match",
+      "Health Insurance",
+      "Mental Health Support",
+      "Paid Time Off",
+      "Free Lunch"
+    ]
+  },
+  {
+    "job_id": "job_012",
+    "company": "DataDrive",
+    "title": "Solutions Architect",
+    "domain": "engineering",
+    "level": "mid",
+    "required_skills": [
+      "GCP",
+      "Django",
+      "Docker",
+      "Java",
+      "Rust",
+      "System Design",
+      "Python"
+    ],
+    "experience_required": 5,
+    "description": "Lead technical initiatives and mentor junior engineers.\n\nRequired Skills: GCP, Django, Docker, Java, Rust, System Design, Python\nExperience Required: 5 years",
+    "raw_text": "Lead technical initiatives and mentor junior engineers.\n\nRequired Skills: GCP, Django, Docker, Java, Rust, System Design, Python\nExperience Required: 5 years",
+    "salary_range": {
+      "min": 120000,
+      "max": 149347
+    },
+    "location": "On-site",
+    "benefits": [
+      "Parental Leave",
+      "Free Lunch",
+      "Stock Options",
+      "Flexible Hours",
+      "Remote Work",
+      "401(k) Match",
+      "Health Insurance"
+    ]
+  },
+  {
+    "job_id": "job_013",
+    "company": "CloudNine",
+    "title": "Engineering Manager",
+    "domain": "management",
+    "level": "entry",
+    "required_skills": [
+      "Agile",
+      "Cross-functional Collaboration",
+      "Product Planning",
+      "Communication",
+      "Problem Solving",
+      "Team Leadership"
+    ],
+    "experience_required": 2,
+    "description": "Lead a high-performing team of talented engineers.\n\nRequired Skills: Agile, Cross-functional Collaboration, Product Planning, Communication, Problem Solving, Team Leadership\nExperience Required: 2 years",
+    "raw_text": "Lead a high-performing team of talented engineers.\n\nRequired Skills: Agile, Cross-functional Collaboration, Product Planning, Communication, Problem Solving, Team Leadership\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 100000,
+      "max": 122245
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Parental Leave",
+      "Flexible Hours",
+      "Gym Membership"
+    ]
+  },
+  {
+    "job_id": "job_014",
+    "company": "TechForward",
+    "title": "Backend Engineer",
+    "domain": "engineering",
+    "level": "mid",
+    "required_skills": [
+      "C++",
+      "Kubernetes",
+      "Git",
+      "MongoDB",
+      "GraphQL",
+      "Azure",
+      "Vue.js",
+      "Spring"
+    ],
+    "experience_required": 2,
+    "description": "Work on mission-critical systems serving millions of users.\n\nRequired Skills: C++, Kubernetes, Git, MongoDB, GraphQL, Azure, Vue.js, Spring\nExperience Required: 2 years",
+    "raw_text": "Work on mission-critical systems serving millions of users.\n\nRequired Skills: C++, Kubernetes, Git, MongoDB, GraphQL, Azure, Vue.js, Spring\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 120000,
+      "max": 148703
+    },
+    "location": "On-site",
+    "benefits": [
+      "Parental Leave",
+      "Mental Health Support",
+      "Remote Work",
+      "Free Lunch"
+    ]
+  },
+  {
+    "job_id": "job_015",
+    "company": "ByteWorks",
+    "title": "Data Engineer",
+    "domain": "data_science",
+    "level": "entry",
+    "required_skills": [
+      "Deep Learning",
+      "Julia",
+      "Pandas",
+      "Seaborn",
+      "Computer Vision",
+      "Tableau",
+      "Scikit-learn"
+    ],
+    "experience_required": 0,
+    "description": "Build predictive models that drive real business impact.\n\nRequired Skills: Deep Learning, Julia, Pandas, Seaborn, Computer Vision, Tableau, Scikit-learn\nExperience Required: 0 years",
+    "raw_text": "Build predictive models that drive real business impact.\n\nRequired Skills: Deep Learning, Julia, Pandas, Seaborn, Computer Vision, Tableau, Scikit-learn\nExperience Required: 0 years",
+    "salary_range": {
+      "min": 90000,
+      "max": 119338
+    },
+    "location": "Remote",
+    "benefits": [
+      "Mentorship Program",
+      "Remote Work",
+      "Paid Time Off",
+      "Mental Health Support",
+      "Health Insurance",
+      "Professional Development"
+    ]
+  },
+  {
+    "job_id": "job_016",
+    "company": "DataDrive",
+    "title": "Director of Engineering",
+    "domain": "management",
+    "level": "senior",
+    "required_skills": [
+      "Budget Management",
+      "Strategic Planning",
+      "Kanban",
+      "Product Planning"
+    ],
+    "experience_required": 10,
+    "description": "Drive cross-functional collaboration and deliver results.\n\nRequired Skills: Budget Management, Strategic Planning, Kanban, Product Planning\nExperience Required: 10 years",
+    "raw_text": "Drive cross-functional collaboration and deliver results.\n\nRequired Skills: Budget Management, Strategic Planning, Kanban, Product Planning\nExperience Required: 10 years",
+    "salary_range": {
+      "min": 180000,
+      "max": 219819
+    },
+    "location": "Remote",
+    "benefits": [
+      "Flexible Hours",
+      "Parental Leave",
+      "Remote Work",
+      "Mentorship Program",
+      "Free Lunch"
+    ]
+  },
+  {
+    "job_id": "job_017",
+    "company": "Digital Solutions Inc",
+    "title": "Lead Data Scientist",
+    "domain": "data_science",
+    "level": "entry",
+    "required_skills": [
+      "Plotly",
+      "SQL",
+      "Python",
+      "PyTorch",
+      "Azure",
+      "Julia",
+      "Hive"
+    ],
+    "experience_required": 0,
+    "description": "Develop and deploy machine learning models in production.\n\nRequired Skills: Plotly, SQL, Python, PyTorch, Azure, Julia, Hive\nExperience Required: 0 years",
+    "raw_text": "Develop and deploy machine learning models in production.\n\nRequired Skills: Plotly, SQL, Python, PyTorch, Azure, Julia, Hive\nExperience Required: 0 years",
+    "salary_range": {
+      "min": 90000,
+      "max": 128077
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Mentorship Program",
+      "Health Insurance",
+      "401(k) Match",
+      "Paid Time Off",
+      "Stock Options",
+      "Remote Work"
+    ]
+  },
+  {
+    "job_id": "job_018",
+    "company": "ByteWorks",
+    "title": "Principal Engineer",
+    "domain": "engineering",
+    "level": "senior",
+    "required_skills": [
+      "Go",
+      "Kubernetes",
+      "Design Patterns",
+      "Java",
+      "React",
+      "Angular",
+      "GraphQL",
+      "Microservices"
+    ],
+    "experience_required": 9,
+    "description": "Work on mission-critical systems serving millions of users.\n\nRequired Skills: Go, Kubernetes, Design Patterns, Java, React, Angular, GraphQL, Microservices\nExperience Required: 9 years",
+    "raw_text": "Work on mission-critical systems serving millions of users.\n\nRequired Skills: Go, Kubernetes, Design Patterns, Java, React, Angular, GraphQL, Microservices\nExperience Required: 9 years",
+    "salary_range": {
+      "min": 160000,
+      "max": 183368
+    },
+    "location": "On-site",
+    "benefits": [
+      "Gym Membership",
+      "Paid Time Off",
+      "Stock Options",
+      "Flexible Hours",
+      "Parental Leave",
+      "Mental Health Support",
+      "401(k) Match"
+    ]
+  },
+  {
+    "job_id": "job_019",
+    "company": "NexGen Tech",
+    "title": "Data Scientist",
+    "domain": "data_science",
+    "level": "entry",
+    "required_skills": [
+      "Statistics",
+      "Matplotlib",
+      "Plotly",
+      "Machine Learning",
+      "Databricks",
+      "AWS"
+    ],
+    "experience_required": 0,
+    "description": "Build predictive models that drive real business impact.\n\nRequired Skills: Statistics, Matplotlib, Plotly, Machine Learning, Databricks, AWS\nExperience Required: 0 years",
+    "raw_text": "Build predictive models that drive real business impact.\n\nRequired Skills: Statistics, Matplotlib, Plotly, Machine Learning, Databricks, AWS\nExperience Required: 0 years",
+    "salary_range": {
+      "min": 90000,
+      "max": 138134
+    },
+    "location": "On-site",
+    "benefits": [
+      "Flexible Hours",
+      "Free Lunch",
+      "Professional Development",
+      "Remote Work"
+    ]
+  },
+  {
+    "job_id": "job_020",
+    "company": "Quantum Leap",
+    "title": "Principal Engineer",
+    "domain": "engineering",
+    "level": "mid",
+    "required_skills": [
+      "Docker",
+      "Vue.js",
+      "Spring",
+      "OOP",
+      "C++"
+    ],
+    "experience_required": 2,
+    "description": "Design and implement robust, maintainable code in a collaborative environment.\n\nRequired Skills: Docker, Vue.js, Spring, OOP, C++\nExperience Required: 2 years",
+    "raw_text": "Design and implement robust, maintainable code in a collaborative environment.\n\nRequired Skills: Docker, Vue.js, Spring, OOP, C++\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 120000,
+      "max": 156692
+    },
+    "location": "On-site",
+    "benefits": [
+      "Professional Development",
+      "Health Insurance",
+      "401(k) Match",
+      "Remote Work",
+      "Stock Options",
+      "Mentorship Program",
+      "Free Lunch"
+    ]
+  },
+  {
+    "job_id": "job_021",
+    "company": "NexGen Tech",
+    "title": "Engineering Manager",
+    "domain": "engineering",
+    "level": "entry",
+    "required_skills": [
+      "Angular",
+      "Microservices",
+      "GraphQL",
+      "Vue.js",
+      "Kubernetes",
+      "Redis",
+      "Azure"
+    ],
+    "experience_required": 2,
+    "description": "Join our team to develop cutting-edge cloud-based solutions.\n\nRequired Skills: Angular, Microservices, GraphQL, Vue.js, Kubernetes, Redis, Azure\nExperience Required: 2 years",
+    "raw_text": "Join our team to develop cutting-edge cloud-based solutions.\n\nRequired Skills: Angular, Microservices, GraphQL, Vue.js, Kubernetes, Redis, Azure\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 80000,
+      "max": 106228
+    },
+    "location": "On-site",
+    "benefits": [
+      "Mental Health Support",
+      "Gym Membership",
+      "Health Insurance"
+    ]
+  },
+  {
+    "job_id": "job_022",
+    "company": "TechForward",
+    "title": "Scrum Master",
+    "domain": "management",
+    "level": "mid",
+    "required_skills": [
+      "Scrum",
+      "Requirements Gathering",
+      "Roadmap Development",
+      "Kanban",
+      "Business Analysis",
+      "Problem Solving",
+      "Product Planning"
+    ],
+    "experience_required": 4,
+    "description": "Create a culture of excellence and continuous improvement.\n\nRequired Skills: Scrum, Requirements Gathering, Roadmap Development, Kanban, Business Analysis, Problem Solving, Product Planning\nExperience Required: 4 years",
+    "raw_text": "Create a culture of excellence and continuous improvement.\n\nRequired Skills: Scrum, Requirements Gathering, Roadmap Development, Kanban, Business Analysis, Problem Solving, Product Planning\nExperience Required: 4 years",
+    "salary_range": {
+      "min": 140000,
+      "max": 182846
+    },
+    "location": "On-site",
+    "benefits": [
+      "Stock Options",
+      "Flexible Hours",
+      "Gym Membership",
+      "Paid Time Off",
+      "Mental Health Support",
+      "Remote Work",
+      "Mentorship Program"
+    ]
+  },
+  {
+    "job_id": "job_023",
+    "company": "Sigma Analytics",
+    "title": "Lead Data Scientist",
+    "domain": "data_science",
+    "level": "lead",
+    "required_skills": [
+      "Spark",
+      "Pandas",
+      "A/B Testing",
+      "Databricks",
+      "Power BI",
+      "Hadoop"
+    ],
+    "experience_required": 8,
+    "description": "Create insights from complex data to guide strategy.\n\nRequired Skills: Spark, Pandas, A/B Testing, Databricks, Power BI, Hadoop\nExperience Required: 8 years",
+    "raw_text": "Create insights from complex data to guide strategy.\n\nRequired Skills: Spark, Pandas, A/B Testing, Databricks, Power BI, Hadoop\nExperience Required: 8 years",
+    "salary_range": {
+      "min": 210000,
+      "max": 244488
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Mentorship Program",
+      "Free Lunch",
+      "Stock Options",
+      "401(k) Match"
+    ]
+  },
+  {
+    "job_id": "job_024",
+    "company": "ByteWorks",
+    "title": "Lead Data Scientist",
+    "domain": "data_science",
+    "level": "senior",
+    "required_skills": [
+      "Hadoop",
+      "NumPy",
+      "Keras",
+      "TensorFlow",
+      "R"
+    ],
+    "experience_required": 5,
+    "description": "Apply advanced ML techniques to solve complex business problems.\n\nRequired Skills: Hadoop, NumPy, Keras, TensorFlow, R\nExperience Required: 5 years",
+    "raw_text": "Apply advanced ML techniques to solve complex business problems.\n\nRequired Skills: Hadoop, NumPy, Keras, TensorFlow, R\nExperience Required: 5 years",
+    "salary_range": {
+      "min": 170000,
+      "max": 210030
+    },
+    "location": "Remote",
+    "benefits": [
+      "Gym Membership",
+      "Parental Leave",
+      "Paid Time Off",
+      "Flexible Hours",
+      "Mental Health Support",
+      "Mentorship Program"
+    ]
+  },
+  {
+    "job_id": "job_025",
+    "company": "DataFlow Systems",
+    "title": "Principal ML Engineer",
+    "domain": "data_science",
+    "level": "mid",
+    "required_skills": [
+      "Deep Learning",
+      "A/B Testing",
+      "NumPy",
+      "Scikit-learn"
+    ],
+    "experience_required": 3,
+    "description": "Build recommendation systems serving millions of users.\n\nRequired Skills: Deep Learning, A/B Testing, NumPy, Scikit-learn\nExperience Required: 3 years",
+    "raw_text": "Build recommendation systems serving millions of users.\n\nRequired Skills: Deep Learning, A/B Testing, NumPy, Scikit-learn\nExperience Required: 3 years",
+    "salary_range": {
+      "min": 130000,
+      "max": 158165
+    },
+    "location": "Remote",
+    "benefits": [
+      "Stock Options",
+      "Free Lunch",
+      "Mentorship Program",
+      "Paid Time Off",
+      "Professional Development",
+      "Gym Membership"
+    ]
+  },
+  {
+    "job_id": "job_026",
+    "company": "ByteWorks",
+    "title": "Analytics Engineer",
+    "domain": "data_science",
+    "level": "lead",
+    "required_skills": [
+      "XGBoost",
+      "Data Mining",
+      "Seaborn",
+      "Matplotlib",
+      "Plotly"
+    ],
+    "experience_required": 15,
+    "description": "Build recommendation systems serving millions of users.\n\nRequired Skills: XGBoost, Data Mining, Seaborn, Matplotlib, Plotly\nExperience Required: 15 years",
+    "raw_text": "Build recommendation systems serving millions of users.\n\nRequired Skills: XGBoost, Data Mining, Seaborn, Matplotlib, Plotly\nExperience Required: 15 years",
+    "salary_range": {
+      "min": 210000,
+      "max": 244413
+    },
+    "location": "Remote",
+    "benefits": [
+      "Flexible Hours",
+      "Remote Work",
+      "Professional Development",
+      "Paid Time Off",
+      "401(k) Match"
+    ]
+  },
+  {
+    "job_id": "job_027",
+    "company": "Sigma Analytics",
+    "title": "DevOps Engineer",
+    "domain": "engineering",
+    "level": "mid",
+    "required_skills": [
+      "CI/CD",
+      "Go",
+      "Design Patterns",
+      "Django",
+      "C++",
+      "Kubernetes",
+      "Microservices"
+    ],
+    "experience_required": 3,
+    "description": "Contribute to our open-source initiatives and shape the future of software.\n\nRequired Skills: CI/CD, Go, Design Patterns, Django, C++, Kubernetes, Microservices\nExperience Required: 3 years",
+    "raw_text": "Contribute to our open-source initiatives and shape the future of software.\n\nRequired Skills: CI/CD, Go, Design Patterns, Django, C++, Kubernetes, Microservices\nExperience Required: 3 years",
+    "salary_range": {
+      "min": 120000,
+      "max": 142040
+    },
+    "location": "Remote",
+    "benefits": [
+      "Gym Membership",
+      "Paid Time Off",
+      "Health Insurance",
+      "Mental Health Support",
+      "Free Lunch",
+      "Parental Leave"
+    ]
+  },
+  {
+    "job_id": "job_028",
+    "company": "TechForward",
+    "title": "Machine Learning Engineer",
+    "domain": "data_science",
+    "level": "senior",
+    "required_skills": [
+      "NumPy",
+      "LightGBM",
+      "Power BI",
+      "Computer Vision",
+      "Pandas",
+      "Matplotlib",
+      "Python"
+    ],
+    "experience_required": 8,
+    "description": "Research and implement cutting-edge deep learning approaches.\n\nRequired Skills: NumPy, LightGBM, Power BI, Computer Vision, Pandas, Matplotlib, Python\nExperience Required: 8 years",
+    "raw_text": "Research and implement cutting-edge deep learning approaches.\n\nRequired Skills: NumPy, LightGBM, Power BI, Computer Vision, Pandas, Matplotlib, Python\nExperience Required: 8 years",
+    "salary_range": {
+      "min": 170000,
+      "max": 213729
+    },
+    "location": "Remote",
+    "benefits": [
+      "Stock Options",
+      "Paid Time Off",
+      "Mentorship Program",
+      "Health Insurance",
+      "Gym Membership",
+      "Remote Work"
+    ]
+  },
+  {
+    "job_id": "job_029",
+    "company": "Sigma Analytics",
+    "title": "VP Product",
+    "domain": "management",
+    "level": "entry",
+    "required_skills": [
+      "Budget Management",
+      "Excel",
+      "Team Leadership",
+      "Agile",
+      "Strategic Planning",
+      "JIRA",
+      "Product Planning"
+    ],
+    "experience_required": 0,
+    "description": "Build and mentor a world-class engineering team.\n\nRequired Skills: Budget Management, Excel, Team Leadership, Agile, Strategic Planning, JIRA, Product Planning\nExperience Required: 0 years",
+    "raw_text": "Build and mentor a world-class engineering team.\n\nRequired Skills: Budget Management, Excel, Team Leadership, Agile, Strategic Planning, JIRA, Product Planning\nExperience Required: 0 years",
+    "salary_range": {
+      "min": 100000,
+      "max": 131059
+    },
+    "location": "On-site",
+    "benefits": [
+      "Gym Membership",
+      "Remote Work",
+      "401(k) Match",
+      "Free Lunch",
+      "Health Insurance"
+    ]
+  },
+  {
+    "job_id": "job_030",
+    "company": "TechCorp",
+    "title": "Operations Manager",
+    "domain": "management",
+    "level": "entry",
+    "required_skills": [
+      "Cross-functional Collaboration",
+      "Scrum",
+      "Agile",
+      "Project Management",
+      "Stakeholder Management"
+    ],
+    "experience_required": 1,
+    "description": "Build and mentor a world-class engineering team.\n\nRequired Skills: Cross-functional Collaboration, Scrum, Agile, Project Management, Stakeholder Management\nExperience Required: 1 years",
+    "raw_text": "Build and mentor a world-class engineering team.\n\nRequired Skills: Cross-functional Collaboration, Scrum, Agile, Project Management, Stakeholder Management\nExperience Required: 1 years",
+    "salary_range": {
+      "min": 100000,
+      "max": 124993
+    },
+    "location": "Remote",
+    "benefits": [
+      "Free Lunch",
+      "Parental Leave",
+      "401(k) Match",
+      "Flexible Hours"
+    ]
+  },
+  {
+    "job_id": "job_031",
+    "company": "NexGen Tech",
+    "title": "Machine Learning Engineer",
+    "domain": "data_science",
+    "level": "senior",
+    "required_skills": [
+      "NLP",
+      "PyTorch",
+      "Hadoop",
+      "Deep Learning",
+      "R"
+    ],
+    "experience_required": 7,
+    "description": "Develop and deploy machine learning models in production.\n\nRequired Skills: NLP, PyTorch, Hadoop, Deep Learning, R\nExperience Required: 7 years",
+    "raw_text": "Develop and deploy machine learning models in production.\n\nRequired Skills: NLP, PyTorch, Hadoop, Deep Learning, R\nExperience Required: 7 years",
+    "salary_range": {
+      "min": 170000,
+      "max": 213429
+    },
+    "location": "Remote",
+    "benefits": [
+      "Paid Time Off",
+      "Parental Leave",
+      "Flexible Hours"
+    ]
+  },
+  {
+    "job_id": "job_032",
+    "company": "CloudNine",
+    "title": "Staff Engineer",
+    "domain": "engineering",
+    "level": "senior",
+    "required_skills": [
+      "GraphQL",
+      "JavaScript",
+      "Design Patterns",
+      "MongoDB",
+      "Java",
+      "Angular",
+      "PostgreSQL",
+      "Kubernetes"
+    ],
+    "experience_required": 10,
+    "description": "Contribute to our open-source initiatives and shape the future of software.\n\nRequired Skills: GraphQL, JavaScript, Design Patterns, MongoDB, Java, Angular, PostgreSQL, Kubernetes\nExperience Required: 10 years",
+    "raw_text": "Contribute to our open-source initiatives and shape the future of software.\n\nRequired Skills: GraphQL, JavaScript, Design Patterns, MongoDB, Java, Angular, PostgreSQL, Kubernetes\nExperience Required: 10 years",
+    "salary_range": {
+      "min": 160000,
+      "max": 201218
+    },
+    "location": "On-site",
+    "benefits": [
+      "Gym Membership",
+      "Free Lunch",
+      "401(k) Match"
+    ]
+  },
+  {
+    "job_id": "job_033",
+    "company": "Sigma Analytics",
+    "title": "Machine Learning Engineer",
+    "domain": "data_science",
+    "level": "senior",
+    "required_skills": [
+      "TensorFlow",
+      "A/B Testing",
+      "Scikit-learn",
+      "GCP",
+      "Seaborn",
+      "Hive",
+      "Computer Vision"
+    ],
+    "experience_required": 10,
+    "description": "Build recommendation systems serving millions of users.\n\nRequired Skills: TensorFlow, A/B Testing, Scikit-learn, GCP, Seaborn, Hive, Computer Vision\nExperience Required: 10 years",
+    "raw_text": "Build recommendation systems serving millions of users.\n\nRequired Skills: TensorFlow, A/B Testing, Scikit-learn, GCP, Seaborn, Hive, Computer Vision\nExperience Required: 10 years",
+    "salary_range": {
+      "min": 170000,
+      "max": 217057
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Remote Work",
+      "Professional Development",
+      "Flexible Hours",
+      "401(k) Match",
+      "Mental Health Support",
+      "Paid Time Off",
+      "Mentorship Program"
+    ]
+  },
+  {
+    "job_id": "job_034",
+    "company": "DataDrive",
+    "title": "Data Engineer",
+    "domain": "data_science",
+    "level": "lead",
+    "required_skills": [
+      "LightGBM",
+      "Hive",
+      "Scikit-learn",
+      "Pandas"
+    ],
+    "experience_required": 13,
+    "description": "Create insights from complex data to guide strategy.\n\nRequired Skills: LightGBM, Hive, Scikit-learn, Pandas\nExperience Required: 13 years",
+    "raw_text": "Create insights from complex data to guide strategy.\n\nRequired Skills: LightGBM, Hive, Scikit-learn, Pandas\nExperience Required: 13 years",
+    "salary_range": {
+      "min": 210000,
+      "max": 239163
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Mentorship Program",
+      "Health Insurance",
+      "Mental Health Support",
+      "Flexible Hours",
+      "401(k) Match"
+    ]
+  },
+  {
+    "job_id": "job_035",
+    "company": "CloudNine",
+    "title": "Frontend Engineer",
+    "domain": "engineering",
+    "level": "lead",
+    "required_skills": [
+      "REST API",
+      "FastAPI",
+      "CI/CD",
+      "GCP",
+      "Elasticsearch",
+      "System Design",
+      "GraphQL",
+      "AWS"
+    ],
+    "experience_required": 15,
+    "description": "We're looking for a talented engineer to build scalable systems.\n\nRequired Skills: REST API, FastAPI, CI/CD, GCP, Elasticsearch, System Design, GraphQL, AWS\nExperience Required: 15 years",
+    "raw_text": "We're looking for a talented engineer to build scalable systems.\n\nRequired Skills: REST API, FastAPI, CI/CD, GCP, Elasticsearch, System Design, GraphQL, AWS\nExperience Required: 15 years",
+    "salary_range": {
+      "min": 200000,
+      "max": 227261
+    },
+    "location": "On-site",
+    "benefits": [
+      "Remote Work",
+      "Parental Leave",
+      "Paid Time Off",
+      "Professional Development"
+    ]
+  },
+  {
+    "job_id": "job_036",
+    "company": "TechForward",
+    "title": "Senior Data Scientist",
+    "domain": "data_science",
+    "level": "senior",
+    "required_skills": [
+      "Airflow",
+      "AWS",
+      "Feature Engineering",
+      "Computer Vision",
+      "TensorFlow",
+      "XGBoost",
+      "NLP",
+      "Scala"
+    ],
+    "experience_required": 8,
+    "description": "Lead data-driven decision making across the organization.\n\nRequired Skills: Airflow, AWS, Feature Engineering, Computer Vision, TensorFlow, XGBoost, NLP, Scala\nExperience Required: 8 years",
+    "raw_text": "Lead data-driven decision making across the organization.\n\nRequired Skills: Airflow, AWS, Feature Engineering, Computer Vision, TensorFlow, XGBoost, NLP, Scala\nExperience Required: 8 years",
+    "salary_range": {
+      "min": 170000,
+      "max": 214342
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Flexible Hours",
+      "Mental Health Support",
+      "Free Lunch",
+      "Remote Work"
+    ]
+  },
+  {
+    "job_id": "job_037",
+    "company": "FutureTech",
+    "title": "Director of Engineering",
+    "domain": "management",
+    "level": "senior",
+    "required_skills": [
+      "Business Analysis",
+      "Stakeholder Management",
+      "Risk Management",
+      "Team Leadership",
+      "Cross-functional Collaboration"
+    ],
+    "experience_required": 5,
+    "description": "Lead a high-performing team of talented engineers.\n\nRequired Skills: Business Analysis, Stakeholder Management, Risk Management, Team Leadership, Cross-functional Collaboration\nExperience Required: 5 years",
+    "raw_text": "Lead a high-performing team of talented engineers.\n\nRequired Skills: Business Analysis, Stakeholder Management, Risk Management, Team Leadership, Cross-functional Collaboration\nExperience Required: 5 years",
+    "salary_range": {
+      "min": 180000,
+      "max": 201491
+    },
+    "location": "Remote",
+    "benefits": [
+      "Remote Work",
+      "Stock Options",
+      "Free Lunch",
+      "401(k) Match",
+      "Health Insurance",
+      "Mental Health Support",
+      "Parental Leave"
+    ]
+  },
+  {
+    "job_id": "job_038",
+    "company": "CloudNine",
+    "title": "Machine Learning Engineer",
+    "domain": "data_science",
+    "level": "lead",
+    "required_skills": [
+      "Scikit-learn",
+      "Scala",
+      "Seaborn",
+      "XGBoost",
+      "A/B Testing",
+      "Matplotlib"
+    ],
+    "experience_required": 15,
+    "description": "Build predictive models that drive real business impact.\n\nRequired Skills: Scikit-learn, Scala, Seaborn, XGBoost, A/B Testing, Matplotlib\nExperience Required: 15 years",
+    "raw_text": "Build predictive models that drive real business impact.\n\nRequired Skills: Scikit-learn, Scala, Seaborn, XGBoost, A/B Testing, Matplotlib\nExperience Required: 15 years",
+    "salary_range": {
+      "min": 210000,
+      "max": 246113
+    },
+    "location": "Remote",
+    "benefits": [
+      "Parental Leave",
+      "Mental Health Support",
+      "Health Insurance",
+      "Stock Options",
+      "Mentorship Program",
+      "Gym Membership",
+      "Remote Work"
+    ]
+  },
+  {
+    "job_id": "job_039",
+    "company": "Sigma Analytics",
+    "title": "Analytics Engineer",
+    "domain": "data_science",
+    "level": "entry",
+    "required_skills": [
+      "Statistics",
+      "NumPy",
+      "Power BI",
+      "Azure"
+    ],
+    "experience_required": 0,
+    "description": "Build recommendation systems serving millions of users.\n\nRequired Skills: Statistics, NumPy, Power BI, Azure\nExperience Required: 0 years",
+    "raw_text": "Build recommendation systems serving millions of users.\n\nRequired Skills: Statistics, NumPy, Power BI, Azure\nExperience Required: 0 years",
+    "salary_range": {
+      "min": 90000,
+      "max": 138185
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Remote Work",
+      "Paid Time Off",
+      "Parental Leave",
+      "Health Insurance",
+      "401(k) Match",
+      "Gym Membership"
+    ]
+  },
+  {
+    "job_id": "job_040",
+    "company": "TechCorp",
+    "title": "DevOps Engineer",
+    "domain": "engineering",
+    "level": "mid",
+    "required_skills": [
+      "Rust",
+      "FastAPI",
+      "PostgreSQL",
+      "C++"
+    ],
+    "experience_required": 4,
+    "description": "Help us build the infrastructure for tomorrow's applications.\n\nRequired Skills: Rust, FastAPI, PostgreSQL, C++\nExperience Required: 4 years",
+    "raw_text": "Help us build the infrastructure for tomorrow's applications.\n\nRequired Skills: Rust, FastAPI, PostgreSQL, C++\nExperience Required: 4 years",
+    "salary_range": {
+      "min": 120000,
+      "max": 154762
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Free Lunch",
+      "Remote Work",
+      "Health Insurance",
+      "Flexible Hours",
+      "Parental Leave",
+      "Professional Development",
+      "Stock Options"
+    ]
+  },
+  {
+    "job_id": "job_041",
+    "company": "FutureTech",
+    "title": "Director of Engineering",
+    "domain": "management",
+    "level": "lead",
+    "required_skills": [
+      "Strategic Planning",
+      "Product Planning",
+      "Mentoring",
+      "Confluence",
+      "Kanban"
+    ],
+    "experience_required": 9,
+    "description": "Build and mentor a world-class engineering team.\n\nRequired Skills: Strategic Planning, Product Planning, Mentoring, Confluence, Kanban\nExperience Required: 9 years",
+    "raw_text": "Build and mentor a world-class engineering team.\n\nRequired Skills: Strategic Planning, Product Planning, Mentoring, Confluence, Kanban\nExperience Required: 9 years",
+    "salary_range": {
+      "min": 250000,
+      "max": 297087
+    },
+    "location": "Remote",
+    "benefits": [
+      "Health Insurance",
+      "Stock Options",
+      "Remote Work"
+    ]
+  },
+  {
+    "job_id": "job_042",
+    "company": "Sigma Analytics",
+    "title": "Project Manager",
+    "domain": "management",
+    "level": "senior",
+    "required_skills": [
+      "Excel",
+      "Business Analysis",
+      "JIRA",
+      "Strategic Planning"
+    ],
+    "experience_required": 8,
+    "description": "Guide the team to deliver on ambitious goals.\n\nRequired Skills: Excel, Business Analysis, JIRA, Strategic Planning\nExperience Required: 8 years",
+    "raw_text": "Guide the team to deliver on ambitious goals.\n\nRequired Skills: Excel, Business Analysis, JIRA, Strategic Planning\nExperience Required: 8 years",
+    "salary_range": {
+      "min": 180000,
+      "max": 219596
+    },
+    "location": "Remote",
+    "benefits": [
+      "Mental Health Support",
+      "Professional Development",
+      "Paid Time Off",
+      "Remote Work",
+      "Health Insurance",
+      "Free Lunch"
+    ]
+  },
+  {
+    "job_id": "job_043",
+    "company": "DataDrive",
+    "title": "Tech Lead",
+    "domain": "engineering",
+    "level": "entry",
+    "required_skills": [
+      "MongoDB",
+      "Java",
+      "REST API",
+      "System Design",
+      "Rust",
+      "GCP"
+    ],
+    "experience_required": 2,
+    "description": "Build APIs and microservices in a high-performance environment.\n\nRequired Skills: MongoDB, Java, REST API, System Design, Rust, GCP\nExperience Required: 2 years",
+    "raw_text": "Build APIs and microservices in a high-performance environment.\n\nRequired Skills: MongoDB, Java, REST API, System Design, Rust, GCP\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 80000,
+      "max": 119180
+    },
+    "location": "On-site",
+    "benefits": [
+      "401(k) Match",
+      "Free Lunch",
+      "Professional Development",
+      "Gym Membership",
+      "Paid Time Off",
+      "Stock Options"
+    ]
+  },
+  {
+    "job_id": "job_044",
+    "company": "TechForward",
+    "title": "Director of Engineering",
+    "domain": "management",
+    "level": "entry",
+    "required_skills": [
+      "Confluence",
+      "Communication",
+      "Business Analysis",
+      "JIRA",
+      "Agile",
+      "Excel"
+    ],
+    "experience_required": 0,
+    "description": "Manage product strategy and roadmap execution.\n\nRequired Skills: Confluence, Communication, Business Analysis, JIRA, Agile, Excel\nExperience Required: 0 years",
+    "raw_text": "Manage product strategy and roadmap execution.\n\nRequired Skills: Confluence, Communication, Business Analysis, JIRA, Agile, Excel\nExperience Required: 0 years",
+    "salary_range": {
+      "min": 100000,
+      "max": 130593
+    },
+    "location": "Remote",
+    "benefits": [
+      "Mentorship Program",
+      "Health Insurance",
+      "Mental Health Support",
+      "Free Lunch",
+      "Gym Membership",
+      "Parental Leave"
+    ]
+  },
+  {
+    "job_id": "job_045",
+    "company": "CloudMaster",
+    "title": "Solutions Architect",
+    "domain": "engineering",
+    "level": "senior",
+    "required_skills": [
+      "Elasticsearch",
+      "AWS",
+      "REST API",
+      "Java",
+      "Django",
+      "Spring",
+      "PostgreSQL"
+    ],
+    "experience_required": 9,
+    "description": "Help us build the infrastructure for tomorrow's applications.\n\nRequired Skills: Elasticsearch, AWS, REST API, Java, Django, Spring, PostgreSQL\nExperience Required: 9 years",
+    "raw_text": "Help us build the infrastructure for tomorrow's applications.\n\nRequired Skills: Elasticsearch, AWS, REST API, Java, Django, Spring, PostgreSQL\nExperience Required: 9 years",
+    "salary_range": {
+      "min": 160000,
+      "max": 208863
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "401(k) Match",
+      "Health Insurance",
+      "Paid Time Off",
+      "Flexible Hours",
+      "Stock Options",
+      "Free Lunch"
+    ]
+  },
+  {
+    "job_id": "job_046",
+    "company": "DataDrive",
+    "title": "Scrum Master",
+    "domain": "management",
+    "level": "entry",
+    "required_skills": [
+      "Scrum",
+      "Stakeholder Management",
+      "Kanban",
+      "Excel",
+      "Product Planning",
+      "Budget Management",
+      "Roadmap Development"
+    ],
+    "experience_required": 2,
+    "description": "Drive innovation through effective project management.\n\nRequired Skills: Scrum, Stakeholder Management, Kanban, Excel, Product Planning, Budget Management, Roadmap Development\nExperience Required: 2 years",
+    "raw_text": "Drive innovation through effective project management.\n\nRequired Skills: Scrum, Stakeholder Management, Kanban, Excel, Product Planning, Budget Management, Roadmap Development\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 100000,
+      "max": 147352
+    },
+    "location": "On-site",
+    "benefits": [
+      "Flexible Hours",
+      "Free Lunch",
+      "Mentorship Program",
+      "Stock Options",
+      "Gym Membership",
+      "401(k) Match"
+    ]
+  },
+  {
+    "job_id": "job_047",
+    "company": "Omega Solutions",
+    "title": "Engineering Manager",
+    "domain": "management",
+    "level": "mid",
+    "required_skills": [
+      "Confluence",
+      "Requirements Gathering",
+      "Problem Solving",
+      "Strategic Planning",
+      "Project Management",
+      "Business Analysis"
+    ],
+    "experience_required": 2,
+    "description": "Drive innovation through effective project management.\n\nRequired Skills: Confluence, Requirements Gathering, Problem Solving, Strategic Planning, Project Management, Business Analysis\nExperience Required: 2 years",
+    "raw_text": "Drive innovation through effective project management.\n\nRequired Skills: Confluence, Requirements Gathering, Problem Solving, Strategic Planning, Project Management, Business Analysis\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 140000,
+      "max": 174632
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Professional Development",
+      "Mental Health Support",
+      "Mentorship Program",
+      "Paid Time Off",
+      "Gym Membership",
+      "Flexible Hours"
+    ]
+  },
+  {
+    "job_id": "job_048",
+    "company": "NexGen Tech",
+    "title": "ML Engineer",
+    "domain": "data_science",
+    "level": "mid",
+    "required_skills": [
+      "Azure",
+      "NumPy",
+      "Statistics",
+      "R",
+      "PyTorch",
+      "GCP",
+      "Matplotlib",
+      "AWS"
+    ],
+    "experience_required": 3,
+    "description": "Research and implement cutting-edge deep learning approaches.\n\nRequired Skills: Azure, NumPy, Statistics, R, PyTorch, GCP, Matplotlib, AWS\nExperience Required: 3 years",
+    "raw_text": "Research and implement cutting-edge deep learning approaches.\n\nRequired Skills: Azure, NumPy, Statistics, R, PyTorch, GCP, Matplotlib, AWS\nExperience Required: 3 years",
+    "salary_range": {
+      "min": 130000,
+      "max": 166230
+    },
+    "location": "Remote",
+    "benefits": [
+      "Mentorship Program",
+      "Paid Time Off",
+      "Professional Development",
+      "401(k) Match"
+    ]
+  },
+  {
+    "job_id": "job_049",
+    "company": "DataDrive",
+    "title": "Data Engineer",
+    "domain": "data_science",
+    "level": "entry",
+    "required_skills": [
+      "Python",
+      "TensorFlow",
+      "Statistics",
+      "A/B Testing",
+      "Hive",
+      "Julia",
+      "SQL"
+    ],
+    "experience_required": 2,
+    "description": "Build recommendation systems serving millions of users.\n\nRequired Skills: Python, TensorFlow, Statistics, A/B Testing, Hive, Julia, SQL\nExperience Required: 2 years",
+    "raw_text": "Build recommendation systems serving millions of users.\n\nRequired Skills: Python, TensorFlow, Statistics, A/B Testing, Hive, Julia, SQL\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 90000,
+      "max": 130422
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Parental Leave",
+      "401(k) Match",
+      "Professional Development",
+      "Mentorship Program",
+      "Gym Membership",
+      "Stock Options"
+    ]
+  },
+  {
+    "job_id": "job_050",
+    "company": "Sigma Analytics",
+    "title": "Engineering Manager",
+    "domain": "management",
+    "level": "lead",
+    "required_skills": [
+      "Scrum",
+      "Stakeholder Management",
+      "Business Analysis",
+      "Roadmap Development",
+      "Cross-functional Collaboration",
+      "Confluence",
+      "Agile",
+      "JIRA"
+    ],
+    "experience_required": 8,
+    "description": "Manage product strategy and roadmap execution.\n\nRequired Skills: Scrum, Stakeholder Management, Business Analysis, Roadmap Development, Cross-functional Collaboration, Confluence, Agile, JIRA\nExperience Required: 8 years",
+    "raw_text": "Manage product strategy and roadmap execution.\n\nRequired Skills: Scrum, Stakeholder Management, Business Analysis, Roadmap Development, Cross-functional Collaboration, Confluence, Agile, JIRA\nExperience Required: 8 years",
+    "salary_range": {
+      "min": 250000,
+      "max": 292741
+    },
+    "location": "On-site",
+    "benefits": [
+      "Health Insurance",
+      "Professional Development",
+      "Mental Health Support"
+    ]
+  },
+  {
+    "job_id": "job_051",
+    "company": "Digital Solutions Inc",
+    "title": "Senior Data Scientist",
+    "domain": "data_science",
+    "level": "senior",
+    "required_skills": [
+      "TensorFlow",
+      "Matplotlib",
+      "Statistics",
+      "Spark",
+      "Airflow",
+      "Databricks",
+      "Machine Learning"
+    ],
+    "experience_required": 7,
+    "description": "Work with large-scale datasets and implement efficient algorithms.\n\nRequired Skills: TensorFlow, Matplotlib, Statistics, Spark, Airflow, Databricks, Machine Learning\nExperience Required: 7 years",
+    "raw_text": "Work with large-scale datasets and implement efficient algorithms.\n\nRequired Skills: TensorFlow, Matplotlib, Statistics, Spark, Airflow, Databricks, Machine Learning\nExperience Required: 7 years",
+    "salary_range": {
+      "min": 170000,
+      "max": 209971
+    },
+    "location": "On-site",
+    "benefits": [
+      "Parental Leave",
+      "Flexible Hours",
+      "Free Lunch",
+      "Stock Options",
+      "Mental Health Support",
+      "Paid Time Off",
+      "Professional Development"
+    ]
+  },
+  {
+    "job_id": "job_052",
+    "company": "Quantum Leap",
+    "title": "Analytics Manager",
+    "domain": "data_science",
+    "level": "lead",
+    "required_skills": [
+      "Feature Engineering",
+      "Spark",
+      "PyTorch",
+      "Julia"
+    ],
+    "experience_required": 12,
+    "description": "Build recommendation systems serving millions of users.\n\nRequired Skills: Feature Engineering, Spark, PyTorch, Julia\nExperience Required: 12 years",
+    "raw_text": "Build recommendation systems serving millions of users.\n\nRequired Skills: Feature Engineering, Spark, PyTorch, Julia\nExperience Required: 12 years",
+    "salary_range": {
+      "min": 210000,
+      "max": 239802
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Mental Health Support",
+      "Remote Work",
+      "Free Lunch",
+      "Parental Leave",
+      "Flexible Hours",
+      "Paid Time Off"
+    ]
+  },
+  {
+    "job_id": "job_053",
+    "company": "TechCorp",
+    "title": "Analytics Manager",
+    "domain": "data_science",
+    "level": "entry",
+    "required_skills": [
+      "AWS",
+      "Spark",
+      "Tableau",
+      "Python",
+      "Statistics",
+      "Airflow",
+      "Keras"
+    ],
+    "experience_required": 0,
+    "description": "Develop and deploy machine learning models in production.\n\nRequired Skills: AWS, Spark, Tableau, Python, Statistics, Airflow, Keras\nExperience Required: 0 years",
+    "raw_text": "Develop and deploy machine learning models in production.\n\nRequired Skills: AWS, Spark, Tableau, Python, Statistics, Airflow, Keras\nExperience Required: 0 years",
+    "salary_range": {
+      "min": 90000,
+      "max": 138346
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Paid Time Off",
+      "Free Lunch",
+      "Remote Work"
+    ]
+  },
+  {
+    "job_id": "job_054",
+    "company": "InnovateLabs",
+    "title": "Principal Engineer",
+    "domain": "engineering",
+    "level": "senior",
+    "required_skills": [
+      "Redis",
+      "Spring",
+      "Git",
+      "REST API",
+      "Microservices"
+    ],
+    "experience_required": 6,
+    "description": "Help us build the infrastructure for tomorrow's applications.\n\nRequired Skills: Redis, Spring, Git, REST API, Microservices\nExperience Required: 6 years",
+    "raw_text": "Help us build the infrastructure for tomorrow's applications.\n\nRequired Skills: Redis, Spring, Git, REST API, Microservices\nExperience Required: 6 years",
+    "salary_range": {
+      "min": 160000,
+      "max": 201179
+    },
+    "location": "Remote",
+    "benefits": [
+      "Free Lunch",
+      "Health Insurance",
+      "Paid Time Off",
+      "Professional Development",
+      "Stock Options"
+    ]
+  },
+  {
+    "job_id": "job_055",
+    "company": "Digital Solutions Inc",
+    "title": "Frontend Engineer",
+    "domain": "engineering",
+    "level": "senior",
+    "required_skills": [
+      "Rust",
+      "Django",
+      "Go",
+      "GraphQL",
+      "PostgreSQL",
+      "Angular",
+      "Azure"
+    ],
+    "experience_required": 7,
+    "description": "Design and implement robust, maintainable code in a collaborative environment.\n\nRequired Skills: Rust, Django, Go, GraphQL, PostgreSQL, Angular, Azure\nExperience Required: 7 years",
+    "raw_text": "Design and implement robust, maintainable code in a collaborative environment.\n\nRequired Skills: Rust, Django, Go, GraphQL, PostgreSQL, Angular, Azure\nExperience Required: 7 years",
+    "salary_range": {
+      "min": 160000,
+      "max": 209951
+    },
+    "location": "On-site",
+    "benefits": [
+      "Mental Health Support",
+      "Professional Development",
+      "401(k) Match",
+      "Free Lunch",
+      "Paid Time Off"
+    ]
+  },
+  {
+    "job_id": "job_056",
+    "company": "Quantum Leap",
+    "title": "Principal Engineer",
+    "domain": "engineering",
+    "level": "mid",
+    "required_skills": [
+      "Angular",
+      "C++",
+      "GraphQL",
+      "Docker",
+      "Python",
+      "Spring",
+      "PostgreSQL",
+      "JavaScript"
+    ],
+    "experience_required": 5,
+    "description": "Build APIs and microservices in a high-performance environment.\n\nRequired Skills: Angular, C++, GraphQL, Docker, Python, Spring, PostgreSQL, JavaScript\nExperience Required: 5 years",
+    "raw_text": "Build APIs and microservices in a high-performance environment.\n\nRequired Skills: Angular, C++, GraphQL, Docker, Python, Spring, PostgreSQL, JavaScript\nExperience Required: 5 years",
+    "salary_range": {
+      "min": 120000,
+      "max": 164543
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Paid Time Off",
+      "Gym Membership",
+      "Professional Development",
+      "401(k) Match",
+      "Flexible Hours"
+    ]
+  },
+  {
+    "job_id": "job_057",
+    "company": "InnovateLabs",
+    "title": "ML Engineer",
+    "domain": "data_science",
+    "level": "entry",
+    "required_skills": [
+      "Hive",
+      "NumPy",
+      "Julia",
+      "Power BI",
+      "Statistics",
+      "Tableau",
+      "AWS",
+      "TensorFlow"
+    ],
+    "experience_required": 2,
+    "description": "Research and implement cutting-edge deep learning approaches.\n\nRequired Skills: Hive, NumPy, Julia, Power BI, Statistics, Tableau, AWS, TensorFlow\nExperience Required: 2 years",
+    "raw_text": "Research and implement cutting-edge deep learning approaches.\n\nRequired Skills: Hive, NumPy, Julia, Power BI, Statistics, Tableau, AWS, TensorFlow\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 90000,
+      "max": 111485
+    },
+    "location": "Remote",
+    "benefits": [
+      "Free Lunch",
+      "401(k) Match",
+      "Parental Leave",
+      "Flexible Hours",
+      "Stock Options"
+    ]
+  },
+  {
+    "job_id": "job_058",
+    "company": "DataDrive",
+    "title": "Data Scientist",
+    "domain": "data_science",
+    "level": "lead",
+    "required_skills": [
+      "Statistics",
+      "TensorFlow",
+      "Power BI",
+      "Hive",
+      "Scala",
+      "LightGBM",
+      "Matplotlib",
+      "Hadoop"
+    ],
+    "experience_required": 13,
+    "description": "Research and implement cutting-edge deep learning approaches.\n\nRequired Skills: Statistics, TensorFlow, Power BI, Hive, Scala, LightGBM, Matplotlib, Hadoop\nExperience Required: 13 years",
+    "raw_text": "Research and implement cutting-edge deep learning approaches.\n\nRequired Skills: Statistics, TensorFlow, Power BI, Hive, Scala, LightGBM, Matplotlib, Hadoop\nExperience Required: 13 years",
+    "salary_range": {
+      "min": 210000,
+      "max": 252619
+    },
+    "location": "On-site",
+    "benefits": [
+      "Free Lunch",
+      "Mental Health Support",
+      "Flexible Hours",
+      "Professional Development"
+    ]
+  },
+  {
+    "job_id": "job_059",
+    "company": "AI Innovations",
+    "title": "Principal Engineer",
+    "domain": "engineering",
+    "level": "senior",
+    "required_skills": [
+      "Java",
+      "Docker",
+      "Spring",
+      "Django",
+      "JavaScript",
+      "AWS"
+    ],
+    "experience_required": 9,
+    "description": "Join our team to develop cutting-edge cloud-based solutions.\n\nRequired Skills: Java, Docker, Spring, Django, JavaScript, AWS\nExperience Required: 9 years",
+    "raw_text": "Join our team to develop cutting-edge cloud-based solutions.\n\nRequired Skills: Java, Docker, Spring, Django, JavaScript, AWS\nExperience Required: 9 years",
+    "salary_range": {
+      "min": 160000,
+      "max": 200954
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Health Insurance",
+      "Professional Development",
+      "Flexible Hours"
+    ]
+  },
+  {
+    "job_id": "job_060",
+    "company": "FutureTech",
+    "title": "Tech Lead",
+    "domain": "engineering",
+    "level": "mid",
+    "required_skills": [
+      "Django",
+      "MongoDB",
+      "Design Patterns",
+      "FastAPI",
+      "Vue.js",
+      "Go",
+      "Redis",
+      "Python"
+    ],
+    "experience_required": 2,
+    "description": "Design and implement robust, maintainable code in a collaborative environment.\n\nRequired Skills: Django, MongoDB, Design Patterns, FastAPI, Vue.js, Go, Redis, Python\nExperience Required: 2 years",
+    "raw_text": "Design and implement robust, maintainable code in a collaborative environment.\n\nRequired Skills: Django, MongoDB, Design Patterns, FastAPI, Vue.js, Go, Redis, Python\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 120000,
+      "max": 157701
+    },
+    "location": "On-site",
+    "benefits": [
+      "401(k) Match",
+      "Parental Leave",
+      "Health Insurance",
+      "Stock Options"
+    ]
+  },
+  {
+    "job_id": "job_061",
+    "company": "CloudNine",
+    "title": "Solutions Architect",
+    "domain": "engineering",
+    "level": "senior",
+    "required_skills": [
+      "Vue.js",
+      "Python",
+      "Rust",
+      "Spring",
+      "Java",
+      "Go",
+      "Kubernetes",
+      "Azure"
+    ],
+    "experience_required": 6,
+    "description": "Join our team to develop cutting-edge cloud-based solutions.\n\nRequired Skills: Vue.js, Python, Rust, Spring, Java, Go, Kubernetes, Azure\nExperience Required: 6 years",
+    "raw_text": "Join our team to develop cutting-edge cloud-based solutions.\n\nRequired Skills: Vue.js, Python, Rust, Spring, Java, Go, Kubernetes, Azure\nExperience Required: 6 years",
+    "salary_range": {
+      "min": 160000,
+      "max": 194689
+    },
+    "location": "On-site",
+    "benefits": [
+      "Paid Time Off",
+      "401(k) Match",
+      "Free Lunch",
+      "Mentorship Program",
+      "Flexible Hours",
+      "Remote Work",
+      "Health Insurance"
+    ]
+  },
+  {
+    "job_id": "job_062",
+    "company": "Omega Solutions",
+    "title": "Technical Project Manager",
+    "domain": "management",
+    "level": "senior",
+    "required_skills": [
+      "Agile",
+      "Communication",
+      "JIRA",
+      "Confluence"
+    ],
+    "experience_required": 8,
+    "description": "Manage product strategy and roadmap execution.\n\nRequired Skills: Agile, Communication, JIRA, Confluence\nExperience Required: 8 years",
+    "raw_text": "Manage product strategy and roadmap execution.\n\nRequired Skills: Agile, Communication, JIRA, Confluence\nExperience Required: 8 years",
+    "salary_range": {
+      "min": 180000,
+      "max": 202408
+    },
+    "location": "Remote",
+    "benefits": [
+      "Paid Time Off",
+      "Stock Options",
+      "401(k) Match",
+      "Parental Leave",
+      "Remote Work"
+    ]
+  },
+  {
+    "job_id": "job_063",
+    "company": "AI Innovations",
+    "title": "Scrum Master",
+    "domain": "management",
+    "level": "senior",
+    "required_skills": [
+      "Problem Solving",
+      "Business Analysis",
+      "Excel",
+      "Cross-functional Collaboration",
+      "Confluence",
+      "Kanban",
+      "JIRA",
+      "Risk Management"
+    ],
+    "experience_required": 8,
+    "description": "Manage product strategy and roadmap execution.\n\nRequired Skills: Problem Solving, Business Analysis, Excel, Cross-functional Collaboration, Confluence, Kanban, JIRA, Risk Management\nExperience Required: 8 years",
+    "raw_text": "Manage product strategy and roadmap execution.\n\nRequired Skills: Problem Solving, Business Analysis, Excel, Cross-functional Collaboration, Confluence, Kanban, JIRA, Risk Management\nExperience Required: 8 years",
+    "salary_range": {
+      "min": 180000,
+      "max": 214796
+    },
+    "location": "Remote",
+    "benefits": [
+      "Professional Development",
+      "Free Lunch",
+      "Gym Membership",
+      "Paid Time Off",
+      "401(k) Match",
+      "Stock Options"
+    ]
+  },
+  {
+    "job_id": "job_064",
+    "company": "CloudNine",
+    "title": "Machine Learning Engineer",
+    "domain": "data_science",
+    "level": "senior",
+    "required_skills": [
+      "GCP",
+      "TensorFlow",
+      "XGBoost",
+      "SQL",
+      "LightGBM",
+      "Statistics"
+    ],
+    "experience_required": 10,
+    "description": "Build predictive models that drive real business impact.\n\nRequired Skills: GCP, TensorFlow, XGBoost, SQL, LightGBM, Statistics\nExperience Required: 10 years",
+    "raw_text": "Build predictive models that drive real business impact.\n\nRequired Skills: GCP, TensorFlow, XGBoost, SQL, LightGBM, Statistics\nExperience Required: 10 years",
+    "salary_range": {
+      "min": 170000,
+      "max": 193164
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Stock Options",
+      "Mentorship Program",
+      "Health Insurance",
+      "Parental Leave",
+      "Professional Development"
+    ]
+  },
+  {
+    "job_id": "job_065",
+    "company": "FutureTech",
+    "title": "Technical Project Manager",
+    "domain": "management",
+    "level": "entry",
+    "required_skills": [
+      "Confluence",
+      "Agile",
+      "Business Analysis",
+      "Product Planning",
+      "Risk Management",
+      "Kanban"
+    ],
+    "experience_required": 1,
+    "description": "Build and mentor a world-class engineering team.\n\nRequired Skills: Confluence, Agile, Business Analysis, Product Planning, Risk Management, Kanban\nExperience Required: 1 years",
+    "raw_text": "Build and mentor a world-class engineering team.\n\nRequired Skills: Confluence, Agile, Business Analysis, Product Planning, Risk Management, Kanban\nExperience Required: 1 years",
+    "salary_range": {
+      "min": 100000,
+      "max": 127348
+    },
+    "location": "Remote",
+    "benefits": [
+      "Mentorship Program",
+      "Professional Development",
+      "401(k) Match",
+      "Remote Work",
+      "Flexible Hours"
+    ]
+  },
+  {
+    "job_id": "job_066",
+    "company": "Quantum Leap",
+    "title": "Data Scientist",
+    "domain": "data_science",
+    "level": "entry",
+    "required_skills": [
+      "R",
+      "Scikit-learn",
+      "Plotly",
+      "AWS",
+      "Azure",
+      "TensorFlow"
+    ],
+    "experience_required": 2,
+    "description": "Create insights from complex data to guide strategy.\n\nRequired Skills: R, Scikit-learn, Plotly, AWS, Azure, TensorFlow\nExperience Required: 2 years",
+    "raw_text": "Create insights from complex data to guide strategy.\n\nRequired Skills: R, Scikit-learn, Plotly, AWS, Azure, TensorFlow\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 90000,
+      "max": 115944
+    },
+    "location": "Remote",
+    "benefits": [
+      "Parental Leave",
+      "Gym Membership",
+      "401(k) Match",
+      "Stock Options",
+      "Health Insurance",
+      "Free Lunch",
+      "Professional Development"
+    ]
+  },
+  {
+    "job_id": "job_067",
+    "company": "DataFlow Systems",
+    "title": "Engineering Manager",
+    "domain": "management",
+    "level": "mid",
+    "required_skills": [
+      "Excel",
+      "Requirements Gathering",
+      "Team Leadership",
+      "Risk Management",
+      "Business Analysis",
+      "Roadmap Development",
+      "JIRA"
+    ],
+    "experience_required": 5,
+    "description": "Manage product strategy and roadmap execution.\n\nRequired Skills: Excel, Requirements Gathering, Team Leadership, Risk Management, Business Analysis, Roadmap Development, JIRA\nExperience Required: 5 years",
+    "raw_text": "Manage product strategy and roadmap execution.\n\nRequired Skills: Excel, Requirements Gathering, Team Leadership, Risk Management, Business Analysis, Roadmap Development, JIRA\nExperience Required: 5 years",
+    "salary_range": {
+      "min": 140000,
+      "max": 165158
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Parental Leave",
+      "401(k) Match",
+      "Remote Work"
+    ]
+  },
+  {
+    "job_id": "job_068",
+    "company": "InnovateLabs",
+    "title": "Analytics Engineer",
+    "domain": "data_science",
+    "level": "lead",
+    "required_skills": [
+      "Data Mining",
+      "Statistics",
+      "Plotly",
+      "Deep Learning",
+      "Azure",
+      "Seaborn",
+      "Scala",
+      "Scikit-learn"
+    ],
+    "experience_required": 15,
+    "description": "Research and implement cutting-edge deep learning approaches.\n\nRequired Skills: Data Mining, Statistics, Plotly, Deep Learning, Azure, Seaborn, Scala, Scikit-learn\nExperience Required: 15 years",
+    "raw_text": "Research and implement cutting-edge deep learning approaches.\n\nRequired Skills: Data Mining, Statistics, Plotly, Deep Learning, Azure, Seaborn, Scala, Scikit-learn\nExperience Required: 15 years",
+    "salary_range": {
+      "min": 210000,
+      "max": 252223
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Free Lunch",
+      "Mentorship Program",
+      "Remote Work",
+      "Health Insurance",
+      "Flexible Hours",
+      "Mental Health Support",
+      "Paid Time Off"
+    ]
+  },
+  {
+    "job_id": "job_069",
+    "company": "InnovateLabs",
+    "title": "Software Engineer",
+    "domain": "engineering",
+    "level": "entry",
+    "required_skills": [
+      "Django",
+      "REST API",
+      "Go",
+      "OOP",
+      "Spring",
+      "React"
+    ],
+    "experience_required": 0,
+    "description": "Contribute to our open-source initiatives and shape the future of software.\n\nRequired Skills: Django, REST API, Go, OOP, Spring, React\nExperience Required: 0 years",
+    "raw_text": "Contribute to our open-source initiatives and shape the future of software.\n\nRequired Skills: Django, REST API, Go, OOP, Spring, React\nExperience Required: 0 years",
+    "salary_range": {
+      "min": 80000,
+      "max": 116298
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Stock Options",
+      "Mental Health Support",
+      "Gym Membership",
+      "Mentorship Program",
+      "Flexible Hours",
+      "Remote Work"
+    ]
+  },
+  {
+    "job_id": "job_070",
+    "company": "NexGen Tech",
+    "title": "Scrum Master",
+    "domain": "management",
+    "level": "senior",
+    "required_skills": [
+      "Agile",
+      "Confluence",
+      "Project Management",
+      "Excel",
+      "Scrum",
+      "Requirements Gathering",
+      "Business Analysis"
+    ],
+    "experience_required": 5,
+    "description": "Create a culture of excellence and continuous improvement.\n\nRequired Skills: Agile, Confluence, Project Management, Excel, Scrum, Requirements Gathering, Business Analysis\nExperience Required: 5 years",
+    "raw_text": "Create a culture of excellence and continuous improvement.\n\nRequired Skills: Agile, Confluence, Project Management, Excel, Scrum, Requirements Gathering, Business Analysis\nExperience Required: 5 years",
+    "salary_range": {
+      "min": 180000,
+      "max": 209486
+    },
+    "location": "Remote",
+    "benefits": [
+      "Health Insurance",
+      "Professional Development",
+      "Stock Options",
+      "Free Lunch",
+      "Parental Leave",
+      "Mental Health Support"
+    ]
+  },
+  {
+    "job_id": "job_071",
+    "company": "TechForward",
+    "title": "ML Engineer",
+    "domain": "data_science",
+    "level": "entry",
+    "required_skills": [
+      "Databricks",
+      "Machine Learning",
+      "Power BI",
+      "A/B Testing",
+      "TensorFlow",
+      "GCP",
+      "PyTorch"
+    ],
+    "experience_required": 0,
+    "description": "Lead data-driven decision making across the organization.\n\nRequired Skills: Databricks, Machine Learning, Power BI, A/B Testing, TensorFlow, GCP, PyTorch\nExperience Required: 0 years",
+    "raw_text": "Lead data-driven decision making across the organization.\n\nRequired Skills: Databricks, Machine Learning, Power BI, A/B Testing, TensorFlow, GCP, PyTorch\nExperience Required: 0 years",
+    "salary_range": {
+      "min": 90000,
+      "max": 112502
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Mentorship Program",
+      "Mental Health Support",
+      "Flexible Hours"
+    ]
+  },
+  {
+    "job_id": "job_072",
+    "company": "FutureTech",
+    "title": "Senior Data Scientist",
+    "domain": "data_science",
+    "level": "senior",
+    "required_skills": [
+      "Matplotlib",
+      "Deep Learning",
+      "TensorFlow",
+      "Seaborn",
+      "Keras"
+    ],
+    "experience_required": 10,
+    "description": "Work with large-scale datasets and implement efficient algorithms.\n\nRequired Skills: Matplotlib, Deep Learning, TensorFlow, Seaborn, Keras\nExperience Required: 10 years",
+    "raw_text": "Work with large-scale datasets and implement efficient algorithms.\n\nRequired Skills: Matplotlib, Deep Learning, TensorFlow, Seaborn, Keras\nExperience Required: 10 years",
+    "salary_range": {
+      "min": 170000,
+      "max": 195804
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Free Lunch",
+      "Paid Time Off",
+      "Parental Leave",
+      "Mental Health Support",
+      "Professional Development",
+      "Gym Membership"
+    ]
+  },
+  {
+    "job_id": "job_073",
+    "company": "CloudMaster",
+    "title": "Technical Project Manager",
+    "domain": "management",
+    "level": "senior",
+    "required_skills": [
+      "Scrum",
+      "Communication",
+      "Excel",
+      "Business Analysis",
+      "Strategic Planning",
+      "Agile",
+      "Team Leadership"
+    ],
+    "experience_required": 6,
+    "description": "Manage product strategy and roadmap execution.\n\nRequired Skills: Scrum, Communication, Excel, Business Analysis, Strategic Planning, Agile, Team Leadership\nExperience Required: 6 years",
+    "raw_text": "Manage product strategy and roadmap execution.\n\nRequired Skills: Scrum, Communication, Excel, Business Analysis, Strategic Planning, Agile, Team Leadership\nExperience Required: 6 years",
+    "salary_range": {
+      "min": 180000,
+      "max": 214808
+    },
+    "location": "Remote",
+    "benefits": [
+      "Professional Development",
+      "Remote Work",
+      "401(k) Match"
+    ]
+  },
+  {
+    "job_id": "job_074",
+    "company": "TechForward",
+    "title": "Operations Manager",
+    "domain": "management",
+    "level": "entry",
+    "required_skills": [
+      "Problem Solving",
+      "JIRA",
+      "Excel",
+      "Decision Making",
+      "Agile",
+      "Product Planning",
+      "Communication",
+      "Roadmap Development"
+    ],
+    "experience_required": 2,
+    "description": "Build and mentor a world-class engineering team.\n\nRequired Skills: Problem Solving, JIRA, Excel, Decision Making, Agile, Product Planning, Communication, Roadmap Development\nExperience Required: 2 years",
+    "raw_text": "Build and mentor a world-class engineering team.\n\nRequired Skills: Problem Solving, JIRA, Excel, Decision Making, Agile, Product Planning, Communication, Roadmap Development\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 100000,
+      "max": 135585
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Health Insurance",
+      "Free Lunch",
+      "401(k) Match",
+      "Professional Development"
+    ]
+  },
+  {
+    "job_id": "job_075",
+    "company": "Quantum Leap",
+    "title": "VP Product",
+    "domain": "management",
+    "level": "entry",
+    "required_skills": [
+      "Agile",
+      "Stakeholder Management",
+      "Excel",
+      "Product Planning",
+      "Problem Solving"
+    ],
+    "experience_required": 2,
+    "description": "Drive cross-functional collaboration and deliver results.\n\nRequired Skills: Agile, Stakeholder Management, Excel, Product Planning, Problem Solving\nExperience Required: 2 years",
+    "raw_text": "Drive cross-functional collaboration and deliver results.\n\nRequired Skills: Agile, Stakeholder Management, Excel, Product Planning, Problem Solving\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 100000,
+      "max": 129269
+    },
+    "location": "On-site",
+    "benefits": [
+      "Professional Development",
+      "Parental Leave",
+      "Paid Time Off",
+      "Health Insurance",
+      "Mental Health Support",
+      "Mentorship Program"
+    ]
+  },
+  {
+    "job_id": "job_076",
+    "company": "Quantum Leap",
+    "title": "Analytics Engineer",
+    "domain": "data_science",
+    "level": "entry",
+    "required_skills": [
+      "Spark",
+      "Seaborn",
+      "TensorFlow",
+      "PyTorch",
+      "SQL",
+      "Power BI",
+      "Airflow"
+    ],
+    "experience_required": 2,
+    "description": "Work with large-scale datasets and implement efficient algorithms.\n\nRequired Skills: Spark, Seaborn, TensorFlow, PyTorch, SQL, Power BI, Airflow\nExperience Required: 2 years",
+    "raw_text": "Work with large-scale datasets and implement efficient algorithms.\n\nRequired Skills: Spark, Seaborn, TensorFlow, PyTorch, SQL, Power BI, Airflow\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 90000,
+      "max": 131497
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Stock Options",
+      "Paid Time Off",
+      "401(k) Match",
+      "Remote Work",
+      "Gym Membership",
+      "Professional Development"
+    ]
+  },
+  {
+    "job_id": "job_077",
+    "company": "Omega Solutions",
+    "title": "AI Engineer",
+    "domain": "data_science",
+    "level": "mid",
+    "required_skills": [
+      "Tableau",
+      "GCP",
+      "R",
+      "Scikit-learn",
+      "TensorFlow",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "experience_required": 2,
+    "description": "Create insights from complex data to guide strategy.\n\nRequired Skills: Tableau, GCP, R, Scikit-learn, TensorFlow, Machine Learning, Deep Learning\nExperience Required: 2 years",
+    "raw_text": "Create insights from complex data to guide strategy.\n\nRequired Skills: Tableau, GCP, R, Scikit-learn, TensorFlow, Machine Learning, Deep Learning\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 130000,
+      "max": 157423
+    },
+    "location": "Remote",
+    "benefits": [
+      "401(k) Match",
+      "Remote Work",
+      "Mental Health Support",
+      "Mentorship Program"
+    ]
+  },
+  {
+    "job_id": "job_078",
+    "company": "Sigma Analytics",
+    "title": "Product Manager",
+    "domain": "management",
+    "level": "entry",
+    "required_skills": [
+      "Roadmap Development",
+      "Budget Management",
+      "JIRA",
+      "Cross-functional Collaboration",
+      "Team Leadership",
+      "Problem Solving"
+    ],
+    "experience_required": 2,
+    "description": "Drive cross-functional collaboration and deliver results.\n\nRequired Skills: Roadmap Development, Budget Management, JIRA, Cross-functional Collaboration, Team Leadership, Problem Solving\nExperience Required: 2 years",
+    "raw_text": "Drive cross-functional collaboration and deliver results.\n\nRequired Skills: Roadmap Development, Budget Management, JIRA, Cross-functional Collaboration, Team Leadership, Problem Solving\nExperience Required: 2 years",
+    "salary_range": {
+      "min": 100000,
+      "max": 133463
+    },
+    "location": "On-site",
+    "benefits": [
+      "Free Lunch",
+      "Paid Time Off",
+      "Remote Work",
+      "Mental Health Support"
+    ]
+  },
+  {
+    "job_id": "job_079",
+    "company": "CloudMaster",
+    "title": "DevOps Engineer",
+    "domain": "engineering",
+    "level": "mid",
+    "required_skills": [
+      "Design Patterns",
+      "System Design",
+      "Django",
+      "Angular",
+      "Git",
+      "MongoDB",
+      "AWS"
+    ],
+    "experience_required": 4,
+    "description": "Build APIs and microservices in a high-performance environment.\n\nRequired Skills: Design Patterns, System Design, Django, Angular, Git, MongoDB, AWS\nExperience Required: 4 years",
+    "raw_text": "Build APIs and microservices in a high-performance environment.\n\nRequired Skills: Design Patterns, System Design, Django, Angular, Git, MongoDB, AWS\nExperience Required: 4 years",
+    "salary_range": {
+      "min": 120000,
+      "max": 156479
+    },
+    "location": "Hybrid",
+    "benefits": [
+      "Stock Options",
+      "Flexible Hours",
+      "Paid Time Off",
+      "Mental Health Support",
+      "Remote Work",
+      "Health Insurance"
+    ]
+  }
+]
