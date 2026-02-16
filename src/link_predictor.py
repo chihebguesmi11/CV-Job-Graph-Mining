@@ -283,9 +283,14 @@ class HybridLinkPredictionModel:
         negative_samples = []
         negative_features = []
         
-        while len(negative_samples) < n_negative:
+        # Limit attempts to avoid infinite loops
+        max_attempts = n_negative * 100
+        attempts = 0
+        
+        while len(negative_samples) < n_negative and attempts < max_attempts:
             cv = random.choice(list(cv_nodes))
             job = random.choice(job_nodes)
+            attempts += 1
             
             if not graph.has_edge(cv, job) and (cv, job) not in negative_samples:
                 features_dict = feature_computer.compute_features(cv, job)
@@ -307,6 +312,11 @@ class HybridLinkPredictionModel:
                 negative_samples.append((cv, job))
                 negative_features.append(features_dict)
         
+        # If we couldn't find enough negative samples, reduce the requirement
+        if len(negative_samples) < n_negative:
+            print(f"⚠ Could only generate {len(negative_samples)} negative samples (requested {n_negative})")
+            print(f"  Graph is too dense - ratio: {graph.number_of_edges()} / {len(cv_nodes) * len(job_nodes)} edges")
+        
         print(f"Generated {len(negative_samples)} negative samples")
         
         # Combine samples
@@ -323,6 +333,7 @@ class HybridLinkPredictionModel:
         return X, y, feature_names
     
     def train(self, X: np.ndarray, y: np.ndarray, 
+              feature_names: Optional[List[str]] = None,
               test_size: float = 0.2) -> Dict[str, float]:
         """
         Train link prediction model.
@@ -330,11 +341,16 @@ class HybridLinkPredictionModel:
         Args:
             X (np.ndarray): Feature matrix
             y (np.ndarray): Labels
+            feature_names (Optional[List[str]]): Feature names for importance analysis
             test_size (float): Test set proportion
         
         Returns:
             Dict[str, float]: Performance metrics
         """
+        # Store feature names if provided
+        if feature_names is not None:
+            self.feature_names = feature_names
+        
         # Split data
         X_train, X_test, y_train, y_test = train_test_split(
             X, y, test_size=test_size, random_state=self.random_state, stratify=y
@@ -480,7 +496,8 @@ class LinkEnricher:
         """
         Path(filepath).parent.mkdir(parents=True, exist_ok=True)
         
-        nx.write_gpickle(graph, filepath)
+        with open(filepath, 'wb') as f:
+            pickle.dump(graph, f)
         print(f"Saved enriched graph to {filepath}")
     
     @staticmethod

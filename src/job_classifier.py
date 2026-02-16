@@ -73,6 +73,10 @@ class JobFeatureEngineer:
         """
         features = {}
         
+        # Ensure job is in graph (add as isolated node if necessary)
+        if job_id not in self.graph:
+            self.graph.add_node(job_id)
+        
         # Structural features
         features['degree'] = self.graph.degree(job_id)
         features['betweenness'] = self.betweenness.get(job_id, 0)
@@ -345,6 +349,10 @@ class JobLevelClassifier:
         # Evaluate
         y_pred = self.model.predict(X_test)
         
+        # Get unique labels from test set to avoid mismatches
+        unique_labels = np.unique(y_test)
+        target_names = self.label_encoder.classes_[unique_labels]
+        
         metrics = {
             'accuracy': np.mean(y_pred == y_test),
             'precision': precision_score(y_test, y_pred, average='weighted', zero_division=0),
@@ -354,8 +362,9 @@ class JobLevelClassifier:
             'y_test': y_test,
             'y_pred': y_pred,
             'classification_report': classification_report(y_test, y_pred,
-                                                          target_names=self.label_encoder.classes_),
-            'confusion_matrix': confusion_matrix(y_test, y_pred)
+                                                          labels=unique_labels,
+                                                          target_names=target_names),
+            'confusion_matrix': confusion_matrix(y_test, y_pred, labels=unique_labels)
         }
         
         print(f"\nLevel Classification Results:")
