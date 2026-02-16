@@ -9,6 +9,7 @@ Dependencies: cv_generator.py (Ramy), job_generator.py (Chiheb)
 """
 
 import json
+import pickle
 import networkx as nx
 import numpy as np
 from typing import List, Dict, Any, Tuple
@@ -183,7 +184,8 @@ class BipartiteGraphBuilder:
         Returns:
             nx.Graph: Loaded graph
         """
-        self.G = nx.read_gpickle(filepath)
+        with open(filepath, 'rb') as f:
+            self.G = pickle.load(f)
         
         # Extract CV and Job nodes
         self.cv_nodes = [n for n in self.G.nodes() if self.G.nodes[n].get('bipartite') == 0]
@@ -201,7 +203,8 @@ class BipartiteGraphBuilder:
         Args:
             filepath (str): Output file path
         """
-        nx.write_gpickle(self.G, filepath)
+        with open(filepath, 'wb') as f:
+            pickle.dump(self.G, f)
         print(f"✅ Saved graph to {filepath}")
     
     def get_graph_statistics(self) -> Dict[str, Any]:
